@@ -43,7 +43,7 @@ I enjoy understanding how systems work, identifying where they can fail, and des
 | [**WindyWaves-mockup-website**](https://github.com/Beebop2727/WindyWaves-mockup-website) | A mockup of a website used for an assignment | HTML | 2026-08-18 |
 <!-- RECENT-REPOS:END -->
 
-<sub>Automatically refreshed every day from my public GitHub repositories.</sub>
+<sub>Manually refreshed from my public GitHub repositories.</sub>
 
 ---
 
